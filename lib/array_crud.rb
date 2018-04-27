@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-
+  with_four = Array.new(4, 'items')
 end
 
 def add_element_to_end_of_array(array, element)
